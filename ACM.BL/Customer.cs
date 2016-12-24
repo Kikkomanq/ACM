@@ -46,7 +46,7 @@ namespace ACM.BL
                     if (!string.IsNullOrWhiteSpace(fullName))
                     {
 
-                        fullName += ", ";
+                        fullName += ",  ";
                     }
 
                     fullName += FirstName;
